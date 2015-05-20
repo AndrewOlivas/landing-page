@@ -1,8 +1,12 @@
 body{
-	background-image: url("");
+	background-color: aliceblue;
 }
 
-header{
+h1{
 	text-align: center;
-
+	font-family: sans-serif;
+}
+h2{
+	text-align: center;
+	font-family: sans-serif;
 }
